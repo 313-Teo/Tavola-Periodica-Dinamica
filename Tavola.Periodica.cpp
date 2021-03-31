@@ -13,7 +13,7 @@ int main() {
     cout<<"\t\tLa Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu"<<"\n\n";
     cout<<"\t\tAc Th Pa U  Np Pu Am Cm Bk Cf Es Fm Md No Lr"<<"\n\n\n";
 
-	string idrogeno[6] = { "idrogeno", "H", "1", "1.008", "-1, +1", "Non Metallo"};
+    string idrogeno[6] = { "idrogeno", "H", "1", "1.008", "-1, +1", "Non Metallo"};
     string elio[6] = { "elio", "He", "2", "4.003", "Nessun numero di ossidazione.", "Gas Nobile"};
     string litio[6] = { "litio", "Li", "3", "6.941", "+1","Metallo"};
     string berillio[6] = { "berillio", "Be", "4", "9,12", "+2", "Metallo"};
