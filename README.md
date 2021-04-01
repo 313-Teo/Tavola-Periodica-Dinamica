@@ -11,12 +11,15 @@ Un team di giovani alle prime armi si è unito per creare un magico programma in
 
 Windows: Aprire il file TavolaPeriodicaBETAx.exe
 
+
 iOS: Download qui https://cutt.ly/bcamfQM
+
 
 Linux/macOS: 
  da terminale eseguire:
  
     ./TavolaPeriodicaBETA
+
 
 Android (provvisoria, prevista un'applicazione standalone/APK):
 
