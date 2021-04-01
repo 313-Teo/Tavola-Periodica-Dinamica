@@ -8,4 +8,5 @@ Windows: Aprire il file TavolaPeriodicaBETA2.exe
 
 Linux/macOS: 
  da terminale eseguire:
+ 
     ./TavolaPeriodicaBETA
