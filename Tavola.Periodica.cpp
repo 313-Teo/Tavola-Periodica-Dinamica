@@ -67,8 +67,8 @@ int main() {
     string tellurio[6] = { "tellurio", "Te", "52", "127.6", "-2, +4, +6", "Semimetallo"};
     string iodio[6] = { "iodio", "I", "53", "126.9", "+1, -1, +5, +7", "Non Metallo"};
     string xenon[6] = { "xenon", "Xe", "54", "131.3", "Nessun numero di ossidazione", "Gas Nobile"};
-    string cesio[6] = { "Cesio", "Ce", "55", "133.00", "+1", "Metallo"};
-    string bario[6] = { "Bario", "Ba", "56", "137.3", "+2", "Metallo"};
+    string cesio[6] = { "cesio", "Ce", "55", "133.00", "+1", "Metallo"};
+    string bario[6] = { "bario", "Ba", "56", "137.3", "+2", "Metallo"};
     string lantanio[6] = { "lantanio", "La", "57", "138.9", "+3","Metallo"};
     string cerio[6] = { "cerio", "Ce", "58", "140.1", "+3, +4", "Metallo"};
     string praseodimio[6] = { "praseodimio", "Pr", "59", "140.90", "+3","Metallo"};
