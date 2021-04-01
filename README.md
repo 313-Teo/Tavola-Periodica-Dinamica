@@ -9,7 +9,7 @@ Un team di giovani alle prime armi si è unito per creare un magico programma in
 
 # Istruzioni per l'utilizzo:
 
-Windows: Aprire il file TavolaPeriodicaBETA2.exe
+Windows: Aprire il file TavolaPeriodicaBETAx.exe
 
 
 Linux/macOS: 
