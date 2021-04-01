@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 	string x[7];
-int output(){
+void output(){
 	cout << "nome: " << x[0] << endl;
 	cout << "segno: " << x[1] << endl;
     cout << "numero atomico: " << x[2] << endl;
@@ -148,6 +148,7 @@ int main() {
     cout << "ti daro' subito tutte le informazioni di cui hai bisogno. ;)" << endl;
     cout << "[puoi scrivere il simbolo, il nome tutto in minuscolo o con la lettera iniziale maiuscola]" << endl;
     cout << "<3 DIVERTITI BABY MAMA <3" << endl;
+    cout << "scrivi \"exit\" per uscire" << endl;
     cout << " " << endl;
     
     do
@@ -1095,6 +1096,11 @@ int main() {
 		}
 		output();
     }
+        if(ele == ("quit") || ele == ("q") || ele == ("exit"))
+	{
+		cout<<"\nciao ciao piccolo chimico";
+		return 0;
+	}
 
 }while(true);
     return 0;
