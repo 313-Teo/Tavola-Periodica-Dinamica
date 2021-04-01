@@ -3,8 +3,9 @@ Un team di giovani alle prime armi si è unito per creare un magico programma in
 
 # Istruzioni per l'utilizzo:
 
- Windows: Ignorare gli avvisi di sicurezza ed eseguirlo
+Windows: Aprire il file TavolaPeriodicaBETA2.exe
 
-Linux: 
 
+Linux/macOS: 
+ da terminale eseguire:
     ./TavolaPeriodicaBETA
