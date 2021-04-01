@@ -88,7 +88,7 @@ int main() {
     string tantalio[6] = { "tantalio", "Ta", "73", "180.9", "+5", "Metallo"};
     string tungsteno[6] = { "tungsteno", "W", "74", "183.8", "+2, +3, +4, +5, +6", "Metallo"};
     string renio[6] = { "renio", "Re", "75", "186.2", "+4, +6, +7", "Metallo"};
-    string osmio[6] = { "Osmio", "Os", "76", "190.2", "+2, +3, +4, +6, +8", "Metallo"};
+    string osmio[6] = { "osmio", "Os", "76", "190.2", "+2, +3, +4, +6, +8", "Metallo"};
     string iridio[6] = { "iridio", "Ir", "77", "192.2", "+3, +4", "Metallo"};
     string platino[6] = { "platino", "Pt", "78", "195.1", "+2, +4", "Metallo"};
     string oro[6] = { "oro", "Au", "79", "197", "+1 ,+3", "Metallo"};
