@@ -2,8 +2,8 @@
 using namespace std;
 	string x[7];
 void output(){
-	cout << "nome: " << x[0] << endl;
-	cout << "segno: " << x[1] << endl;
+    cout << "nome: " << x[0] << endl;
+    cout << "segno: " << x[1] << endl;
     cout << "numero atomico: " << x[2] << endl;
     cout << "massa atomica: " << x[3] << endl;
     cout << "numeri di ossidazione: " << x[4] << endl;
@@ -13,7 +13,7 @@ void output(){
 }
 
 int main() {
-	system("COLOR 3");
+    system("COLOR 3");
     cout<<"\tH                                                      He"<<"\n\n";
     cout<<"\tLi Be                                 B  C   N  O   F  Ne"<<"\n\n";
     cout<<"\tNa Mg                                 Al Si  P  S   Cl Ar"<<"\n\n";
