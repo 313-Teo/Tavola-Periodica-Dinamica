@@ -42,4 +42,5 @@ Aprire Termux e digitare (SOLO PER LA PRIMA VOLTA):
 Tutte le altre volte basta digitare:
 
     cd Tavola-Periodica-Dinamica/
+    
     ./TavolAndroid
