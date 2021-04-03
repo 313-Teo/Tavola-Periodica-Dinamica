@@ -18,6 +18,7 @@ iOS: Download qui https://cutt.ly/bcamfQM
 Linux/macOS: 
  da terminale eseguire:
  
+    chmod +x TavolaPeriodicaBETA
     ./TavolaPeriodicaBETA
 
 
